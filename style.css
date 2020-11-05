@@ -29,7 +29,7 @@
         border-bottom: 0.5px solid rgba(238, 236, 236, 0.15) !important;
     }
 }
-@media all and (max-width: 1024px) {
+@media all and (max-width: 1023px) {
     .small-hide{
         display:none;
     }
